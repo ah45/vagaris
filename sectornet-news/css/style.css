@@ -205,7 +205,9 @@ h1 svg {
 }
 
 #news-items blockquote:hover:before,
-#news-items blockquote:hover:after
+#news-items blockquote:hover:after,
+#news-items blockquote:active:before,
+#news-items blockquote:active:after
 {
   transform: scaleX(1);
 }
@@ -230,7 +232,9 @@ h1 svg {
 }
 
 #news-items blockquote .border:hover:before,
-#news-items blockquote .border:hover:after
+#news-items blockquote .border:hover:after,
+#news-items blockquote .border:active:before,
+#news-items blockquote .border:active:after
 {
   transform: scaleY(1);
 }
