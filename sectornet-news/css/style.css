@@ -179,25 +179,35 @@ h1 svg {
 #news-items blockquote .border:before,
 #news-items blockquote .border:after
 {
-  background-color: #DD94D8;
-}
-
-#news-items blockquote:before,
-#news-items blockquote:after,
-#news-items blockquote .border:before,
-#news-items blockquote .border:after
-{
   position: absolute;
   content: "";
   display: block;
+  background-color: #DD94D8;
   transition: transform 0.3s;
 }
 
-#news-items blockquote:before, #news-items blockquote:after {
+#news-items blockquote:before,
+#news-items blockquote:after {
   left: 0;
   width: 100%;
   height: 2px;
   transform: scaleX(0);
+}
+
+#news-items blockquote:before {
+  top: 0;
+  transform-origin: right center;
+}
+
+#news-items blockquote:after {
+  bottom: 0;
+  transform-origin: left center;
+}
+
+#news-items blockquote:hover:before,
+#news-items blockquote:hover:after
+{
+  transform: scaleX(1);
 }
 
 #news-items blockquote .border:before,
@@ -211,54 +221,18 @@ h1 svg {
 
 #news-items blockquote .border:before {
   left: 0;
+  transform-origin: bottom center;
 }
 
 #news-items blockquote .border:after {
   right: 0;
+  transform-origin: top center;
 }
 
 #news-items blockquote .border:hover:before,
 #news-items blockquote .border:hover:after
 {
   transform: scaleY(1);
-}
-
-#news-items blockquote:before {
-  top: 0;
-}
-
-#news-items blockquote:after {
-  bottom: 0;
-}
-
-#news-items blockquote:hover:before,
-#news-items blockquote:hover:after
-{
-  transform: scaleX(1);
-}
-
-#news-items blockquote .border:before {
-  transform-origin: top center;
-}
-
-#news-items blockquote .border:after {
-  transform-origin: bottom center;
-}
-
-#news-items blockquote:before {
-  transform-origin: right center;
-}
-
-#news-items blockquote:after {
-  transform-origin: left center;
-}
-
-#news-items blockquote .border:before {
-  transform-origin: bottom center;
-}
-
-#news-items blockquote .border:after {
-  transform-origin: top center;
 }
 
 
