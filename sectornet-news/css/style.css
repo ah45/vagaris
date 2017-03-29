@@ -153,18 +153,14 @@ h1 {
   position: absolute;
   content: "";
   display: block;
-  -webkit-transition: -webkit-transform 0.3s;
-  transition: -webkit-transform 0.3s;
   transition: transform 0.3s;
-  transition: transform 0.3s, -webkit-transform 0.3s;
 }
 
 #news-items blockquote:before, #news-items blockquote:after {
   left: 0;
   width: 100%;
   height: 2px;
-  -webkit-transform: scaleX(0);
-          transform: scaleX(0);
+  transform: scaleX(0);
 }
 
 #news-items blockquote .border:before,
@@ -173,8 +169,7 @@ h1 {
   top: 0;
   width: 2px;
   height: 100%;
-  -webkit-transform: scaleY(0);
-          transform: scaleY(0);
+  transform: scaleY(0);
 }
 
 #news-items blockquote .border:before {
@@ -188,8 +183,7 @@ h1 {
 #news-items blockquote .border:hover:before,
 #news-items blockquote .border:hover:after
 {
-  -webkit-transform: scaleY(1);
-          transform: scaleY(1);
+  transform: scaleY(1);
 }
 
 #news-items blockquote:before {
@@ -203,38 +197,31 @@ h1 {
 #news-items blockquote:hover:before,
 #news-items blockquote:hover:after
 {
-  -webkit-transform: scaleX(1);
-          transform: scaleX(1);
+  transform: scaleX(1);
 }
 
 #news-items blockquote .border:before {
-  -webkit-transform-origin: top center;
-          transform-origin: top center;
+  transform-origin: top center;
 }
 
 #news-items blockquote .border:after {
-  -webkit-transform-origin: bottom center;
-          transform-origin: bottom center;
+  transform-origin: bottom center;
 }
 
 #news-items blockquote:before {
-  -webkit-transform-origin: right center;
-          transform-origin: right center;
+  transform-origin: right center;
 }
 
 #news-items blockquote:after {
-  -webkit-transform-origin: left center;
-          transform-origin: left center;
+  transform-origin: left center;
 }
 
 #news-items blockquote .border:before {
-  -webkit-transform-origin: bottom center;
-          transform-origin: bottom center;
+  transform-origin: bottom center;
 }
 
 #news-items blockquote .border:after {
-  -webkit-transform-origin: top center;
-          transform-origin: top center;
+  transform-origin: top center;
 }
 
 
