@@ -1,0 +1,61 @@
+<?xml-stylesheet type="text/css" href="../css/sector-net-logo.css" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 140.71429 140.71429">
+    <g id="logo-globe">
+        <g stroke="#faec5e" transform="translate(-279.6 -227.885)">
+        <circle cx="350.7" cy="299.5" r="51.8" fill="none" stroke-width="5" style="isolation:auto;mix-blend-mode:normal" color="#000" overflow="visible" solid-color="#000000"/>
+        <g stroke-width="3">
+            <path id="a" fill="none" fill-rule="evenodd" d="M350.5 250.8c-15.2 19.4-28.7 66.5.5 99"/>
+            <use width="100%" height="100%" transform="matrix(-1 0 0 1 701.67 0)" xlink:href="#a"/>
+            <path id="b" fill="none" fill-rule="evenodd" d="M350.5 250.8c-45.3 8-42.6 92.3.5 99"/>
+            <use width="100%" height="100%" transform="matrix(-1 0 0 1 701.812 0)" xlink:href="#b"/>
+            <path fill="none" d="M301 299.3h100"/>
+            <path id="c" fill="none" fill-rule="evenodd" d="M305.3 276.3c27.5 7 60.6 7 91.2-.2"/>
+            <use width="100%" height="100%" transform="matrix(1 0 0 -1 0 598.696)" xlink:href="#c"/>
+            <path id="d" fill="none" fill-rule="evenodd" d="M319.2 259.4c18.8 7 42.5 7.8 63.4.5"/>
+            <use width="100%" height="100%" transform="matrix(1 0 0 -1 0 599.97)" xlink:href="#d"/>
+            <path fill="none" d="M350.5 248.5l.5 103.3"/>
+        </g>
+        </g>
+        <g stroke="#8ccbd6" transform="translate(-281.62 -229.653)">
+        <circle cx="350.7" cy="299.5" r="51.8" fill="none" stroke-width="5" style="isolation:auto;mix-blend-mode:normal" color="#000" overflow="visible" solid-color="#000000"/>
+        <g stroke-width="3">
+            <path id="e" fill="none" fill-rule="evenodd" d="M350.5 250.8c-15.2 19.4-28.7 66.5.5 99"/>
+            <use width="100%" height="100%" transform="matrix(-1 0 0 1 701.67 0)" xlink:href="#e"/>
+            <path id="f" fill="none" fill-rule="evenodd" d="M350.5 250.8c-45.3 8-42.6 92.3.5 99"/>
+            <use width="100%" height="100%" transform="matrix(-1 0 0 1 701.812 0)" xlink:href="#f"/>
+            <path fill="none" d="M301 299.3h100"/>
+            <path id="g" fill="none" fill-rule="evenodd" d="M305.3 276.3c27.5 7 60.6 7 91.2-.2"/>
+            <use width="100%" height="100%" transform="matrix(1 0 0 -1 0 598.696)" xlink:href="#g"/>
+            <path id="h" fill="none" fill-rule="evenodd" d="M319.2 259.4c18.8 7 42.5 7.8 63.4.5"/>
+            <use width="100%" height="100%" transform="matrix(1 0 0 -1 0 599.97)" xlink:href="#h"/>
+            <path fill="none" d="M350.5 248.5l.5 103.3"/>
+        </g>
+        </g>
+        <g stroke="#f28cb4" transform="translate(-280.357 -229.148)">
+        <circle cx="350.7" cy="299.5" r="51.8" fill="none" stroke-width="5" style="isolation:auto;mix-blend-mode:normal" color="#000" overflow="visible" solid-color="#000000"/>
+        <g stroke-width="3">
+            <path id="i" fill="none" fill-rule="evenodd" d="M350.5 250.8c-15.2 19.4-28.7 66.5.5 99"/>
+            <use width="100%" height="100%" transform="matrix(-1 0 0 1 701.67 0)" xlink:href="#i"/>
+            <path id="j" fill="none" fill-rule="evenodd" d="M350.5 250.8c-45.3 8-42.6 92.3.5 99"/>
+            <use width="100%" height="100%" transform="matrix(-1 0 0 1 701.812 0)" xlink:href="#j"/>
+            <path fill="none" d="M301 299.3h100"/>
+            <path id="k" fill="none" fill-rule="evenodd" d="M305.3 276.3c27.5 7 60.6 7 91.2-.2"/>
+            <use width="100%" height="100%" transform="matrix(1 0 0 -1 0 598.696)" xlink:href="#k"/>
+            <path id="l" fill="none" fill-rule="evenodd" d="M319.2 259.4c18.8 7 42.5 7.8 63.4.5"/>
+            <use width="100%" height="100%" transform="matrix(1 0 0 -1 0 599.97)" xlink:href="#l"/>
+            <path fill="none" d="M350.5 248.5l.5 103.3"/>
+        </g>
+        </g>
+    </g>
+    <g id="logo-triad">
+        <g transform="translate(370, 110)">
+        <circle cx="300.3" cy="38" r="70.4" fill="none" transform="rotate(180 0 0)" style="isolation:auto;mix-blend-mode:normal" color="#000" overflow="visible" solid-color="#000000"/>
+        <circle cx="117.2" cy="230.2" r="21.4" fill="#f3f1ed" fill-rule="evenodd" style="isolation:auto;mix-blend-mode:normal" transform="rotate(120 0 0)" color="#000" overflow="visible" solid-color="#000000"/>
+        <circle cx="-299.8" cy="-86.1" r="21.4" fill="#f3f1ed" fill-rule="evenodd" style="isolation:auto;mix-blend-mode:normal" color="#000" overflow="visible" solid-color="#000000"/>
+        <circle cx="182.6" cy="-289.1" r="21.4" fill="#f3f1ed" fill-rule="evenodd" style="isolation:auto;mix-blend-mode:normal" transform="rotate(-120 0 0)" color="#000" overflow="visible" solid-color="#000000"/>
+        <path id="m" fill="#f3f1ed" fill-rule="evenodd" d="M-317.8-75.6c0 18.7-9.5 33.3-22.3 41l15.7 9.2c.7-15.5 6-29.7 22.5-40z"/>
+        <use width="100%" height="100%" transform="matrix(-1 0 0 1 -599.107 0)" xlink:href="#m"/>
+        <use width="100%" height="100%" transform="rotate(60 -342.256 -13.538)" xlink:href="#m"/>
+        </g>
+    </g>
+    </svg>

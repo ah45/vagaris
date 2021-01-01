@@ -1,0 +1,27 @@
+#logo-globe {
+    transform-origin: 50% 50%;
+    animation: 5s ease-in-out infinite rotateGlobe;
+}
+
+#logo-triad {
+    transform-origin: 50% 50%;
+    animation: 20s linear infinite rotateTriad;
+}
+
+@keyframes rotateGlobe {
+    0% { transform: rotate(360deg); }
+    60% { transform: rotate(0deg); }
+1   00% { transform: rotate(0deg); }
+}
+
+@keyframes rotateTriad {
+            0% { transform: rotate(0deg); }
+/*  3s */  15% { transform: rotate(60deg); }
+/*  5s */  25% { transform: rotate(60deg); }
+/*  8s */  40% { transform: rotate(120deg); }
+/* 10s */  50% { transform: rotate(120deg); }
+/* 13s */  65% { transform: rotate(180deg); }
+/* 15s */  75% { transform: rotate(180deg); }
+/* 18s */  90% { transform: rotate(240deg); }
+/* 20s */ 100% { transform: rotate(240deg); }
+}
