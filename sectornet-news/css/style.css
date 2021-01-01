@@ -70,15 +70,15 @@ h1 svg {
 }
 
 @keyframes rotateTriad {
-              0% { transform: translate(370px, 108px) rotate(0deg); }
-  /*  3s */  15% { transform: translate(370px, 108px) rotate(60deg); }
-  /*  5s */  25% { transform: translate(370px, 108px) rotate(60deg); }
-  /*  8s */  40% { transform: translate(370px, 108px) rotate(120deg); }
-  /* 10s */  50% { transform: translate(370px, 108px) rotate(120deg); }
-  /* 13s */  65% { transform: translate(370px, 108px) rotate(180deg); }
-  /* 15s */  75% { transform: translate(370px, 108px) rotate(180deg); }
-  /* 18s */  90% { transform: translate(370px, 108px) rotate(240deg); }
-  /* 20s */ 100% { transform: translate(370px, 108px) rotate(240deg); }
+              0% { transform: rotate(0deg); }
+  /*  3s */  15% { transform: rotate(60deg); }
+  /*  5s */  25% { transform: rotate(60deg); }
+  /*  8s */  40% { transform: rotate(120deg); }
+  /* 10s */  50% { transform: rotate(120deg); }
+  /* 13s */  65% { transform: rotate(180deg); }
+  /* 15s */  75% { transform: rotate(180deg); }
+  /* 18s */  90% { transform: rotate(240deg); }
+  /* 20s */ 100% { transform: rotate(240deg); }
 }
 
 #news-items {
